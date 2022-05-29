@@ -1,0 +1,1 @@
+Dark-Plum.svg was taken from "https://github.com/Rokin05/midnight-kde/tree/master/Kvantum/Midnight-Purple" and modified.
