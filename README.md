@@ -2,5 +2,4 @@
 Kvantum Themes i've made.
 Here will be all my kvantum themes.
 
-Still work in progress to the moment.
-
+You can do whatever you want with them in the time you link to this github page "https://github.com/Alexevier/Kvantum-Themes".
