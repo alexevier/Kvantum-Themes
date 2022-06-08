@@ -1,6 +1,6 @@
 [%General]
-author=Alexevier1
-comment=Wellcome to the Plum Darknes
+author=Alexevier
+comment=Welcome to the Plum Darknes
 respect_DE=false
 x11drag=true
 alt_mnemonic=true
@@ -65,8 +65,6 @@ transparent_dolphin_view=true
 respect_darkness=true
 transparent_pcmanfm_sidepane=true
 transparent_pcmanfm_view=true
-
-
 
 [PanelButtonCommand]
 frame=true
