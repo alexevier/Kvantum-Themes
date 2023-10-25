@@ -1,0 +1,8 @@
+The default transparency is at 70% (or opacity reduced by 30%).
+It can be made opaque by setting opacity to 0 in Kvantum.
+
+These themes are made to combine with Material-Black-Colors.
+https://www.pling.com/p/1316887
+
+The icons used are: Material-Black-Color-Suru.
+https://www.pling.com/p/1333360
