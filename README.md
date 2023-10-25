@@ -1,5 +1,7 @@
 # Kvantum-Themes
-Kvantum Themes i've made.
-Here will be all my kvantum themes.
+kvantum Themes i've made.
 
-You can do whatever you want with them in the time you link to this github page "https://github.com/Alexevier/Kvantum-Themes".
+you can do whatever you want with them in the time you link to the gitlab or one of the pling pages.
+
+gitlab: https://gitlab.com/alexevier/kvantumthemes
+Black-Colors: https://www.pling.com/p/1820725
